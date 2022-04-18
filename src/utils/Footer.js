@@ -14,7 +14,7 @@ const Footer = () => {
     <>
       <footer style={myStyle}>
       <p>Copyright © 2022 Abrham</p>
-      <a href="https://www.w3schools.com/react/showreact.asp?filename=demo2_react_css_inline_object" target="_blank" rel="noreferrer">github link</a>  
+      <a href="https://github.com/abrhame/cv-application.git" target="_blank" rel="noreferrer">github link</a>  
       </footer>
     </>
   );
